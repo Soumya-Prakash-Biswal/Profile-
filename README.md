@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumya-prakash-biswal&label=Profile%20views&color=0e75b6&style=flat" alt="soumya-prakash-biswal" /> </p>
 
-- 🌱 I’m currently learning **SQL and Next.js**
+- 🌱 I’m currently learning **Express.js and MongoDB**
 
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **imsoumyaprakashbiswal@gmail.com**
 
-- ⚡ Fun fact **I don't like coffee**
+- ⚡ Fun fact **I like peace**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
